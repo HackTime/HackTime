@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌱 I’m currently learning Python , Java , C , C++ and **Matematics**
 <div align="center">
   <a href="https://github.com/HackTime">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HackTime&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -10,7 +11,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python , Java , C , C++ and **Matematics**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
